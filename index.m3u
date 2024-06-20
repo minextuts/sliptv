@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ITN" tvg-name="ITN" tvg-logo="",ITN
+https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="HiruTV" tvg-name="Hiru TV" tvg-logo="",Hiru TV
+https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HiruTV2" tvg-name="Hiru TV 2" tvg-logo="",Hiru TV 2
+https://tv.hiruhost.com:1936/8012/8012/chunklist_w226392007.m3u8
+
+#EXTINF:-1 tvg-id="SiyathaTV" tvg-name="Siyatha TV" tvg-logo="",Siyatha TV
+https://voaplus.com/live/tL4Has1RhxZy8vANSC9uQAGc2/index.m3u8
